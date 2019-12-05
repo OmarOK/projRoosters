@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "user":
+      [
+        {
+          "name" : "testName1", "avatar" : "avatarTest1"
+        }
+      ],
+
+      "user2":
+      [
+        {
+          "name":"testName2", "avatar2" : "avatarTest2"
+        }
+      ]
+    }
+  ]
+}
